@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Laavanya-543
+- 👀 I’m interested in front end development 
+- 🌱 I’m currently learning html,cs,javascript
+- 💞️
+- 📫 How to reach me
+- mail- laavanyamurugesan543@gmail.com 
